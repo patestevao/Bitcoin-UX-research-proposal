@@ -20,12 +20,13 @@ As for more specific questions, we can divide them into two groups.
 
 2. On Bitcoin interfaces:
 - Are the current patterns used in Bitcoin interfaces clear for users?
-- How do different patterns compare to each other?
 - What are the main struggles they have when operating Bitcoin software? 
 - What are some opportunities to improve?
 - How does a Bitcoin interface performs with someone who’s relatively savvy with other technologies but not Bitcoin?
+This second group of questions will be approached from a more broad perspective of how people interact with Bitcoin, as this research is more focused on human aspects. Therefore, we'll not get into too many technical details about design patterns and user interfaces.
 
 General methodology and outcomes:
-This research will be conducted using multiple user research techniques, including but not limited to remote user interviews, and will have as a result a written report including the process, insights, customer journey maps and low fidelity wireframes. The possibility of having research recordings publicly available will still be evaluated depending on privacy agreements and the participants disposition.
+This research will be conducted using multiple user research techniques, including but not limited to remote user interviews, user testing sessions and surveys. During the research period, we'll follow a transparent position torwards the community with our ongoing efforts, and will have as final result a written report including the process, insights, customer journey maps and low fidelity wireframes. The possibility of having research recordings publicly available will still be evaluated depending on privacy agreements and the participants disposition.
 
-During the research planning, we’ll identify the best approach to choose participants, aiming for a range of people who have a close relationship with Bitcoin, to those with no current knowledge at all. Also, we’ll take the opportunity to reach out to open source projects and get their own input of which questions they’d like to have answered in order to improve their solutions and consider those when delineating the detailed research outline.
+During the research planning, we’ll identify the best approach to choose participants, aiming for a range of people who have a close relationship with Bitcoin, to those with no current knowledge at all. We acknowledge that there will be limitations in reaching people from multiple cultures, but we'll also make an effort to overcome language boundaries through translation services.
+Also, we’ll take the opportunity to reach out to open source projects and get their own input of which questions they’d like to have answered in order to improve their solutions and consider those when delineating the detailed research outline.
